@@ -1,0 +1,25 @@
+header {
+    width: 500px;
+    background-color: blue;
+    color: white;
+    border: 10px solid darkblue;
+    padding: 10px;
+}
+
+main {
+    margin-top: 10px;
+    margin-left: 7px;
+    background-color: yellow;
+    width: 350px;
+    padding: 10px;
+    border: 35px solid rgb(127,127,0);
+}
+
+footer {
+    margin-top: 15px;
+    width: 500px;
+    background-color: blue;
+    color: white;
+    border: 10px solid darkblue;
+    padding: 10px;
+}
